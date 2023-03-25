@@ -2,7 +2,8 @@
 - 👀 I’m interested in DDOSSING
 - 🌱 I’m currently learning How to ddos
 - 💞️ I’m looking to collaborate on DDOS ATTACKS
-- 📫 How to reach me Discord.gg/pretty user swatbin
+- 📫 How to reach me tricky#5132
+
 
 <!---
 swatbin/swatbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
